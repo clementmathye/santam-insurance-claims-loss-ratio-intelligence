@@ -1,0 +1,8 @@
+RegionID,Province,PrimaryMetro,RiskProfile
+1,Gauteng,Johannesburg / Pretoria,High Hail & Theft Exposure
+2,Western Cape,Cape Town,Moderate Maritime & Storm Exposure
+3,KwaZulu-Natal,Durban,High Flood & Coastal Weather
+4,Eastern Cape,Gqeberha / East London,Moderate Coastal & Wind
+5,Free State,Bloemfontein,Agricultural & Severe Weather
+6,Mpumalanga,Mbombela,High Summer Storm & Freight Traffic
+7,Limpopo,Polokwane,High Temperature & Rural Freight
