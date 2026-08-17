@@ -2,7 +2,9 @@
 
 An enterprise short-term insurance business intelligence model built in Power BI Desktop. This project evaluates **R343.75M** in underwritten policy premiums against claims exposure, tracking portfolio loss ratios, operational settlement velocity, and claims frequency across 5 major insurance classes.
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview]
+<img width="1182" height="684" alt="dashboard_preview" src="https://github.com/user-attachments/assets/c84f4905-401d-439e-b308-6f0f6af3adec" />
+
 
 ---
 
